@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+const YOUTUBE_API_KEY = 'AIzaSyCJLgy2AdFKjVokCQ00MD-VD7AumXjCJuk';
+
 // Create a new component. This component should produce some HTML
 const App = function() {
   return <div>Hi!</div>;
